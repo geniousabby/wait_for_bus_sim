@@ -1,1 +1,1 @@
-draw_text(x,y,current_bus)
+draw_text(x,y,current_temp)
